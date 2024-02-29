@@ -1,0 +1,31 @@
+#footer{
+    margin-top: 50px;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height:auto;
+    margin-right: 10px;
+    background-color: rgb(33, 32, 32);
+}
+.nav .nav-link{
+    font-size: 16px;
+    font-weight: 900;
+}
+.footer_logo{
+    height: 200px;
+}
+.copy_right{
+    background-color: black;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.copy_right p{
+    padding-top: 18px;
+    color: rgb(215, 219, 222);
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
